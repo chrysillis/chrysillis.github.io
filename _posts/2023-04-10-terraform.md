@@ -9,4 +9,4 @@ Using VM extensions, it's possible to run PowerShell commands or complete script
 
 I have tested these configs to make sure they don't have any errors and can be deployed as-is. However, I recommend you edit the variables.tf file to suit your organization's needs.
 
-GitHub Repository: [https://github.com/chrysillis/infra-code](https://github.com/chrysillis/infra-code)
+GitHub Repository: [https://github.com/chrysillis/terraform](https://github.com/chrysillis/terraform)
